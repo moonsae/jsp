@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<title>Insert title here</title>
+	<script>
+		function changeCss1(){
+			alert("dasf");
+			let div = document.querySelector("#wrap");
+			alert(div);
+			div.style.color="red";
+		}
+		function changeCss2(){
+			$("#wrap").css("color","green");
+		}
+	</script>
+	
+</head>
+<body>
+	<button id="btn1" onclick="changeCss1()">버튼1</button>
+	<button id="btn2" onclick="changeCss2()">버튼2</button>
+	<div id="wrap">글씨</div>
+	
+</body>
+</html>

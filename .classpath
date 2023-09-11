@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ajaxPrj_09_6/src/main/java"/>
+	<classpathentry kind="src" path="ELprj0908/src/main/java"/>
+	<classpathentry kind="src" path="prj/src/main/java"/>
+	<classpathentry kind="src" path="prj0825/src/main/java"/>
+	<classpathentry kind="src" path="prj0828/src/main/java"/>
+	<classpathentry kind="src" path="prj0831/src/main/java"/>
+	<classpathentry kind="src" path="prj0901/src/main/java"/>
+	<classpathentry kind="src" path="prj0905.cartPrj/src/main/java"/>
+	<classpathentry kind="src" path="prj0905.sessionPrj/src/main/java"/>
+	<classpathentry kind="src" path="prj0905.survey/src/main/java"/>
+	<classpathentry kind="src" path="sessionPrj/sessionPrj/src/main/java"/>
+	<classpathentry kind="src" path="sessionPrj2/src/main/java"/>
+	<classpathentry kind="lib" path="ajaxPrj_09_6/src/main/webapp/WEB-INF/lib/json-20230618.jar"/>
+	<classpathentry kind="lib" path="ajaxPrj_09_6/src/main/webapp/WEB-INF/lib/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="ELprj0908/src/main/webapp/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="ELprj0908/src/main/webapp/WEB-INF/lib/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="prj0828/src/main/webapp/WEB-INF/lib/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="prj0829/src/main/webapp/WEB-INF/lib/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="prj0830/src/main/webapp/WEB-INF/lib/cal.jar"/>
+	<classpathentry kind="lib" path="prj0830/src/main/webapp/WEB-INF/lib/JH_라이브러리연습.jar"/>
+	<classpathentry kind="lib" path="prj0830/src/main/webapp/WEB-INF/lib/MM3.jar"/>
+	<classpathentry kind="lib" path="prj0830/src/main/webapp/WEB-INF/lib/MyMath.jar"/>
+	<classpathentry kind="lib" path="prj0830/src/main/webapp/WEB-INF/lib/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="prj0830/src/main/webapp/WEB-INF/lib/Yak.jar"/>
+	<classpathentry kind="lib" path="prj0901/src/main/webapp/WEB-INF/lib/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="team/src/main/webapp/WEB-INF/lib/ojdbc8.jar"/>
+	<classpathentry kind="output" path="ELprj0908/build/classes"/>
+</classpath>

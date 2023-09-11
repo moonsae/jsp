@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+ul li{
+	list-style: none;
+}
+.box1{
+	height: 300px;
+	width: 200px;
+	border: 1px solid black;
+}
+.box2{
+	width: 150px;
+	height: 200px;
+	border: 1px solid black;
+}

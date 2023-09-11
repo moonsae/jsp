@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<title>Insert title here</title>
+	<script>
+		// $(document).ready(콜백함수);
+		$(document).ready(function(){
+			alert("djlkfsa");
+			//$("#btn1").click(function(){});
+			$("#btn1").click(function(){
+				alert("나 클릭되었어 btn1");
+			});
+			//
+			let btn2Tag = document.querySelector("#btn2");
+			alert(btn2Tag);
+			btn2Tag.addEventListener("click",function(){
+				alert("나 클릭되었어 btn2");
+			});
+		});
+	</script>
+	
+</head>
+<body>
+	<button id="btn1">버튼1</button>
+	<button id="btn2">버튼2</button>
+	
+</body>
+</html>
