@@ -1,9 +1,0 @@
-package acorn;
-
-public class FoodServlet {
-
-	public FoodServlet() {
-		// TODO Auto-generated constructor stub
-	}
-
-}
